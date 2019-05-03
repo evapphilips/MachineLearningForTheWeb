@@ -1,6 +1,6 @@
 // Eva Philips
 // April 13, 2019
-// Machine Learning for the Web Week 3: Speech hangman with teachable machine
+// Machine Learning for the Web Week 3: Speech hangman 
 
 // variables defning hangman section
 let hangmanWidth = 400;
