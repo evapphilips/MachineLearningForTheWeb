@@ -7,3 +7,5 @@
 [Week 5 Example: Outfit helper test](https://evapphilips.github.io/MachineLearningForTheWeb/week5/outfitHelper/)
 
 [Week 5 Example: Speech Hangman](https://evapphilips.github.io/MachineLearningForTheWeb/week5/speechHangman/)
+
+[Final Project](https://github.com/evapphilips/MachineLearningForTheWeb/tree/master/finalProject/speechHangman)
